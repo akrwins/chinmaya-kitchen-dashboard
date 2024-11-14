@@ -1,0 +1,13 @@
+# Initialize git repository
+git init
+
+# Add files to git
+git add .
+
+# Commit changes
+git commit -m "Initial commit with dashboard implementation"
+
+# Create new repository on GitHub and push code
+git remote add origin https://github.com/YOUR_USERNAME/chinmaya-kitchen-dashboard.git
+git branch -M main
+git push -u origin main
