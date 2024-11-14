@@ -1,0 +1,16 @@
+chinmaya-kitchen-dashboard/
+├── app/
+│   ├── page.tsx
+│   └── layout.tsx
+├── components/
+│   ├── ui/
+│   │   ├── button.tsx
+│   │   ├── card.tsx
+│   │   └── tabs.tsx
+│   └── dashboard/
+│       └── volunteer-dashboard.tsx
+├── public/
+├── styles/
+│   └── globals.css
+├── package.json
+└── README.md
